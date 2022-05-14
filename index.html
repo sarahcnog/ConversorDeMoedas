@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Conversor de moedas</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body>
+  <div class="container">
+    <img src="https://i.ibb.co/sFSSLWQ/Projeto-P2-Logo.png" width=70px alt="">
+    <h1 class="page-title">
+      CONVERSOR DE MOEDAS</h1>
+    <br><br>
+    <div class="linha">
+      <div class="coluna-50">
+        <img src="https://i.ibb.co/nLWHXJG/br.png" width=110px alt="">
+      </div>
+      <div class="coluna-50">
+        <label for="moeda">Insira o valor em R$:</label><br>
+        <input type="number" id="valor" size="10" /><br>
+        <button type="submit" onclick="Converter()">Converter</button>
+      </div>
+    </div>
+    <br><br>
+    <hr class="solid">
+    <br><br>
+    <div class="linha">
+      <div class="coluna-50">
+        <img src="https://i.ibb.co/jbrxdnn/dolar.png" width=70px alt="">
+      </div>
+      <div class="coluna-50">
+        <h2 id="resultadoDolar"></h2>
+        <h3 id="cotDiaDolar"></h3>
+      </div>
+    </div><br>
+    <div class="linha">
+      <div class="coluna-50">
+        <img src="https://i.ibb.co/1M329P4/euro.png" width=70px alt="">
+      </div>
+      <div class="coluna-50">
+        <h2 id="resultadoEuro"></h2>
+        <h3 id="cotDiaEuro"></h3>
+      </div>
+    </div><br>
+    <div class="linha">
+      <div class="coluna-50">
+        <img src="https://i.ibb.co/sv3YBtW/libra.png" width=70px alt="">
+      </div>
+      <div class="coluna-50">
+        <h2 id="resultadoLibra"></h2>
+        <h3 id="cotDiaLibra"></h3>
+      </div>
+    </div><br>
+    <div class="linha">
+      <div class="coluna-50">
+        <img src="https://i.ibb.co/tM3Cm65/iene.png" width=70px alt="">
+      </div>
+      <div class="coluna-50">
+        <h2 id="resultadoIene"></h2>
+        <h3 id="cotDiaIene"></h3>
+      </div>
+    </div><br>
+    <div class="linha">
+      <div class="coluna-50">
+        <img src="https://i.ibb.co/gmh2j8N/biticoin.png" width=70px alt="">
+      </div>
+      <div class="coluna-50">
+        <h2 id="resultadoBitcoin"></h2>
+        <h3 id="cotDiaBitcoin"></h3>
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <center>As cotações seguem o último fechamento da PTAX, conforme link: <a href="https://www.bcb.gov.br/estabilidadefinanceira/cotacoestodas" target="_blank">Fonte</a></center>
+  <center>Já a cotação do Bitcoin é atualizada a cada 30 segundos, conforme o Awesome API: <a href="https://docs.awesomeapi.com.br/api-de-moedas" target="_blank">Fonte</a></center>
+  </div>
+  <a href="https://www.linkedin.com/in/sarahcnog/" target="_blank"><img src="https://i.ibb.co/gP3ffb8/logo2.png" alt="blank" class="page-logo"><a>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

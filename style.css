@@ -1,0 +1,86 @@
+body {
+  background-image: url("https://i.ibb.co/nbSt7mb/Projeto-P2-background.png");
+  font-family: "Roboto Mono", monospace;
+}
+
+.container {
+  text-align: center;
+  background: #ffffff;
+  width: 400px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #485157;
+  box-shadow: 6px 6px #485157;
+}
+
+.page-title {
+  color: #c47e00;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #485157;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 30px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.linha {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.coluna-50 {
+  width: 50%;
+  text-align: center;
+}
+
+.coluna-20 {
+  width: 20%;
+  text-align: center;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #485157;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #fbb70f;
+  font-family: "Roboto Mono", monospace;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+h2 {
+  color: #485157;
+  font-size: 15px;
+}
+
+h3 {
+  color: #485157;
+  font-size: 10px;
+}
+
+center {
+  color: #485157;
+  font-size: 10px;
+}

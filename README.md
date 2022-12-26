@@ -1,12 +1,10 @@
 # CONVERSOR DE MOEDAS
 
-Rápida descrição do objetivo de fazer esse projeto
-
 | :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog  |
 | -------------  | --- |
 | :sparkles: Nome        | **Conversor de Moedas**
 | :label: Tecnologias | java, html, CSS
-| :rocket: URL         | https://github.com/sarahcnog/CalculadoraNotaFinal
+| :rocket: URL         | https://github.com/sarahcnog/ConversorDeMoedas
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->

@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# CONVERSOR DE MOEDAS
 
 Rápida descrição do objetivo de fazer esse projeto
 

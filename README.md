@@ -2,7 +2,7 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog  |
 | -------------  | --- |
 | :sparkles: Nome        | **Conversor de Moedas**
 | :label: Tecnologias | java, html, CSS

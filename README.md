@@ -1,6 +1,6 @@
 # CONVERSOR DE MOEDAS
 
-| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog  |
+| :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **Conversor de Moedas**
 | :label: Tecnologias | java, html, CSS
